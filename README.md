@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="github/OnBoard.png" margin="20" width="200" height="auto" alt="Welcome" />
+  <img src="github/OnBoard.jpg" margin="20" width="100%" height="auto" alt="Welcome" />
 </div>
 
 <h3>💻 Descrição do Projeto: </h3>
