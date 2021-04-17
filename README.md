@@ -1,5 +1,5 @@
 <div align="center">
-   <h1>Pimpos App</h1>
+  <img src="github/OnBoard.png" margin="20" width="200" height="auto" alt="Welcome" />
 </div>
 
 <h3>💻 Descrição do Projeto: </h3>
@@ -7,3 +7,24 @@
 critério avaliativo para uma vaga de estágio em
 desenvolvimento mobile com React Native.
 </p>
+
+<h3>🔨 Tecnologias Usadas: </h3>
+<ul>
+  <li>React Native</li>
+  <li>TypeScript</li>
+  <li>MockApi</li>
+  <li>React Navigation V5</li>
+</ul>
+
+<h3>🌟 Funcionalidades: </h3>
+<ul>
+  <li>Listagem de crianças cadastradas</li>
+  <li>Cadastro de crianças e medidas</li>
+  <li>Excluir crianças já cadastradas</li>
+  <li>Atualizar dados de crianças</li>
+</ul>
+
+<hr/>
+<br/>
+
+<p>Direitos autorais das imagens(apenas utilizadas com propósito educional e de estudo) são totalmente da Disney</p>
