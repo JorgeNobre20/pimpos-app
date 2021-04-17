@@ -2,6 +2,7 @@
   <img src="github/OnBoard.jpg" margin="20" width="100%" height="auto" alt="Welcome" />
 </div>
 
+<br/>
 <h3>💻 Descrição do Projeto: </h3>
 <p>Esse app é um teste técnico que será utilizado como 
 critério avaliativo para uma vaga de estágio em
